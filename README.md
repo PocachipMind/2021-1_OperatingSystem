@@ -7,6 +7,6 @@ This repositories is for Operating System course-related archives for the first 
 
 There is no content in the class. It is a storage that focuses on the task implementation code.
 
-각 과제의 모든 "코드동작설명_및_결과.pdf"는 유닉스 환경에서 이루어졌음을 밝힙니다.
+각 과제의 모든 결과 는 유닉스 환경에서 이루어졌음을 밝힙니다.
 
 All the results of each task were reported in the Unix environment.
