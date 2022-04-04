@@ -1,7 +1,7 @@
 # 과제 3
 3-1. Demand Paging
 <br>
-3-2.Demand Paging with 2-level Hierarchical Page Table
+3-2. Demand Paging with 2-level Hierarchical Page Table
 <br>
 과제3 설명.pdf를 읽으시면 조금 더 자세한 과제설명을 알 수 있습니다.
 ## test3.bin
